@@ -1,2 +1,0 @@
-ATM Simulator C#
-Version 1.0
